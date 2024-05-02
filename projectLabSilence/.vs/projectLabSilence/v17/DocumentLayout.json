@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nafez\\projectLabSilence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|c:\\users\\nafez\\projectlabsilence\\projectlabsilence\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\viewmodels\\locationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\viewmodels\\locationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|c:\\users\\nafez\\projectlabsilence\\projectlabsilence\\viewmodels\\mappageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\viewmodels\\mappageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\platforms\\ios\\info.plist||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|C:\\Users\\Nafez\\projectLabSilence\\projectlabsilence\\projectlabsilence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B161A097-5B00-4906-AB13-8CB627AC8EAE}|projectLabSilence\\projectLabSilence.csproj|solutionrelative:projectlabsilence\\projectlabsilence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Contact.cs",
+              "RelativeToolTip": "projectLabSilence\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:54:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\MapPageViewModel.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\ViewModels\\MapPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\MapPageViewModel.cs",
+              "RelativeToolTip": "projectLabSilence\\ViewModels\\MapPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:22:47.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "projectLabSilence\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:55:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\LocationViewModel.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\ViewModels\\LocationViewModel.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\ViewModels\\LocationViewModel.cs",
+              "RelativeToolTip": "projectLabSilence\\ViewModels\\LocationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:22:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "projectLabSilence\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "projectLabSilence\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T15:19:19.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "projectLabSilence\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "projectLabSilence\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-02T15:15:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\User.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\User.cs",
+              "RelativeToolTip": "projectLabSilence\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:13:55.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Place.cs",
+              "RelativeToolTip": "projectLabSilence\\Models\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:10:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "projectLabSilence\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\Models\\Address.cs",
+              "RelativeToolTip": "projectLabSilence\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:08:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "projectLabSilence",
+              "DocumentMoniker": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\projectLabSilence.csproj",
+              "RelativeDocumentMoniker": "projectLabSilence\\projectLabSilence.csproj",
+              "ToolTip": "C:\\Users\\Nafez\\projectLabSilence\\projectLabSilence\\projectLabSilence.csproj",
+              "RelativeToolTip": "projectLabSilence\\projectLabSilence.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T15:03:33.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

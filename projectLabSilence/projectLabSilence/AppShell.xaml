@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="projectLabSilence.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:projectLabSilence.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="projectLabSilence">
+
+
+    <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate views:LoginPage}" />
+    <ShellContent Route="SignUpPage" ContentTemplate="{DataTemplate views:SignUpPage}" />
+    <FlyoutItem Title="Map" Icon="map_icon.png">
+        <ShellContent ContentTemplate="{DataTemplate views:MapPage}" />
+    </FlyoutItem>
+
+    <!-- This MenuItem opens the side menu for lat/long input -->
+    <MenuItem Text="Search Location" Command="{Binding OpenSearchMenuCommand}" />
+
+
+
+</Shell>

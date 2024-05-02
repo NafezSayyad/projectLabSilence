@@ -1,0 +1,15 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:projectLabSilence.ViewModels"
+             x:Class="projectLabSilence.Views.MainPage"
+             x:Name="thisPage">
+    <ContentPage.BindingContext>
+        <viewmodels:MainViewModel/>
+    </ContentPage.BindingContext>
+
+    <!-- Example of binding -->
+    <StackLayout>
+        <Entry Text="{Binding Name}" Placeholder="Enter name"/>
+        <Label Text="{Binding Name}"/>
+    </StackLayout>
+</ContentPage>

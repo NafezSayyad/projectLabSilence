@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.NavBarIsVisible="False"
+             x:Class="projectLabSilence.Views.SignUpPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30,0" Spacing="25" VerticalOptions="Center">
+
+            <Image Source="silentlogo.png" HeightRequest="170" WidthRequest="170" HorizontalOptions="Center" />
+
+            <Label Text="Create Account" FontSize="28" TextColor="Gray" HorizontalTextAlignment="Center"/>
+
+            <!-- User Name -->
+            <Entry Placeholder="User Name" Margin="10" TextColor="Black" Keyboard="Default"/>
+
+            <!-- Email -->
+            <Entry Placeholder="Email" Margin="10" TextColor="Black" Keyboard="Email"/>
+
+            <!-- Password -->
+            <Entry Placeholder="Password" Margin="10" IsPassword="True" TextColor="Black"/>
+
+            <!-- Confirm Password -->
+            <Entry Placeholder="Confirm Password" Margin="10" IsPassword="True" TextColor="Black"/>
+
+            <Button Text="Sign Up" Margin="10" BackgroundColor="DeepSkyBlue" TextColor="White" Clicked="OnSignUpClicked"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="8">
+                <Label Text="Already have an account?" TextColor="Gray"/>
+                <Label Text="Log in" TextColor="DeepSkyBlue" TextDecorations="Underline">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnLogInClicked"/>
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+  <application
+      android:allowBackup="true"
+      android:icon="@mipmap/appicon"
+      android:supportsRtl="true">
+
+    <!-- Add your Google Maps API key here -->
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyBIf5_GPBID3bqRvOl4Qc-_PqgGJZ_CX68"/>
+
+  </application>
+
+  <!-- Permissions for network and location -->
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <!-- Permissions for changing the systems settings (audio) -->
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+
+
+  <!-- The SDK version requirements -->
+  <uses-sdk />
+</manifest>
