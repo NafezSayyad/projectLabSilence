@@ -18,3 +18,46 @@ Things i am currently working on:
 - IOS users gets a notification of what action to do, bcs unlike android apps in ios cannot change phone settings.
 - FOR NOW THERE IS NO NEED FOR A MAP
 - we can just use a simple UI, the most important things are the key features of the app
+
+
+.NET PACKAGES:
+   [net8.0-android34.0]:
+   Top-level Package                               Requested   Resolved
+   > CommunityToolkit.Mvvm                         8.2.2       8.2.2
+   > Microsoft.Extensions.Logging.Debug            8.0.0       8.0.0
+   > Microsoft.Maui.Controls                       8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Compatibility         8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Maps                  8.0.14      8.0.14
+   > Microsoft.Maui.Essentials                     8.0.21      8.0.21
+   > Microsoft.NET.ILLink.Tasks              (A)   [8.0.3, )   8.0.3
+
+   [net8.0-ios17.2]:
+   Top-level Package                               Requested   Resolved
+   > CommunityToolkit.Mvvm                         8.2.2       8.2.2
+   > Microsoft.Extensions.Logging.Debug            8.0.0       8.0.0
+   > Microsoft.Maui.Controls                       8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Compatibility         8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Maps                  8.0.14      8.0.14
+   > Microsoft.Maui.Essentials                     8.0.21      8.0.21
+   > Microsoft.NET.ILLink.Tasks              (A)   [8.0.3, )   8.0.3
+
+   [net8.0-maccatalyst17.2]:
+   Top-level Package                               Requested   Resolved
+   > CommunityToolkit.Mvvm                         8.2.2       8.2.2
+   > Microsoft.Extensions.Logging.Debug            8.0.0       8.0.0
+   > Microsoft.Maui.Controls                       8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Compatibility         8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Maps                  8.0.14      8.0.14
+   > Microsoft.Maui.Essentials                     8.0.21      8.0.21
+   > Microsoft.NET.ILLink.Tasks              (A)   [8.0.3, )   8.0.3
+
+   [net8.0-windows10.0.19041]:
+   Top-level Package                            Requested   Resolved
+   > CommunityToolkit.Mvvm                      8.2.2       8.2.2
+   > Microsoft.Extensions.Logging.Debug         8.0.0       8.0.0
+   > Microsoft.Maui.Controls                    8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Compatibility      8.0.14      8.0.14
+   > Microsoft.Maui.Controls.Maps               8.0.14      8.0.14
+   > Microsoft.Maui.Essentials                  8.0.21      8.0.21
+
+Running on an andriod emulator : pixel 7 pro
