@@ -61,3 +61,5 @@ Things i am currently working on:
    > Microsoft.Maui.Essentials                  8.0.21      8.0.21
 
 Running on an andriod emulator : pixel 7 pro
+![image](https://github.com/NafezSayyad/projectLabSilence/assets/62516699/29d75bf6-10dc-4dbe-8f78-0fef9b208e3e)
+
